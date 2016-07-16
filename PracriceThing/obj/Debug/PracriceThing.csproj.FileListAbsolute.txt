@@ -1,0 +1,6 @@
+c:\users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracriceThing\bin\Debug\PracriceThing.exe.config
+c:\users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracriceThing\bin\Debug\PracriceThing.exe
+c:\users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracriceThing\bin\Debug\PracriceThing.pdb
+c:\users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracriceThing\obj\Debug\PracriceThing.csprojResolveAssemblyReference.cache
+c:\users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracriceThing\obj\Debug\PracriceThing.exe
+c:\users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracriceThing\obj\Debug\PracriceThing.pdb
