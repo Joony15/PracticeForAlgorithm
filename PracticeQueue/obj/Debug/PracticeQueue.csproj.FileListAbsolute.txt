@@ -1,0 +1,6 @@
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracticeQueue\bin\Debug\PracticeQueue.exe.config
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracticeQueue\bin\Debug\PracticeQueue.exe
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracticeQueue\bin\Debug\PracticeQueue.pdb
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracticeQueue\obj\Debug\PracticeQueue.exe
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracticeQueue\obj\Debug\PracticeQueue.pdb
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\PracticeQueue\obj\Debug\PracticeQueue.csprojResolveAssemblyReference.cache
