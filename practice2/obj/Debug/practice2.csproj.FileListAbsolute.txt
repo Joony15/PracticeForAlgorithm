@@ -1,0 +1,5 @@
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\practice2\bin\Debug\practice2.exe.config
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\practice2\bin\Debug\practice2.exe
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\practice2\bin\Debug\practice2.pdb
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\practice2\obj\Debug\practice2.exe
+C:\Users\noddy\documents\visual studio 2015\Projects\PracriceThing\practice2\obj\Debug\practice2.pdb

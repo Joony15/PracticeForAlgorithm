@@ -20,8 +20,8 @@ namespace practice2
         {
             String[] splitsR = s.Split(' ');
             StringBuilder result = new StringBuilder();
-            
-            for(int i = splitsR.Length -1; i >= 0; i--)
+
+            for (int i = splitsR.Length - 1; i >= 0; i--)
             {
                 String temp = splitsR[i];
 
@@ -33,11 +33,11 @@ namespace practice2
             }
 
             if (result.Length > 0)
-                return result.ToString().Substring(0, result.Length-1);
+                return result.ToString().Substring(0, result.Length - 1);
             else
                 return "";
-         
+
         }
-        
+
     }
 }
