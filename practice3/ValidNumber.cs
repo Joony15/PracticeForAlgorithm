@@ -18,7 +18,7 @@
 
 namespace practice3
 {
-    class Program
+    class ValidNumber
     {
         public bool IsNumber(string s)
         {
