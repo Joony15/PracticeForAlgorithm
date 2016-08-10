@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FindMinimumRotate.cs" />
+    <Compile Include="LRUCache.cs" />
     <Compile Include="Sample.cs" />
     <Compile Include="ShortestDistance.cs" />
     <Compile Include="ValidNumber.cs" />
